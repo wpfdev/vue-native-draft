@@ -4,7 +4,7 @@ Includes a splash screen and the second page with WebView component configured t
 
 ### Decription Russian:
 Черновик приложения vue-native построенного на основе Expo. 
-Состоит из окна приветствия и второй страницы с компонентом WebView настроенным на открытия сайта.
+Состоит из окна приветствия и второй страницы с компонентом WebView открывающим внешний сайт внутри приложения.
 
 ### System Requirements:
 Globally installed node >= 6.0
